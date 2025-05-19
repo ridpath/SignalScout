@@ -1,4 +1,3 @@
-BluetoothScanner.swift
 import CoreBluetooth
 import CoreLocation
 import Foundation
