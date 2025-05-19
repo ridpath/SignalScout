@@ -50,6 +50,7 @@ Redistribution on the App Store or third-party stores
 Use in commercial products or forks
 
 Selling forks or derived apps
+For more details: https://github.com/ridpath/SignalScout/blob/main/LICENSE
 
 
 
