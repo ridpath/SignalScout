@@ -26,7 +26,7 @@ All data is stored locally and exportable as JSON logs. No cloud storage, ever.
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 -- iOS 15+
 - `Swift` / `SwiftUI` / `Combine`
 - CoreBluetooth, CoreLocation, AVFoundation
@@ -35,7 +35,7 @@ All data is stored locally and exportable as JSON logs. No cloud storage, ever.
 
 ---
 
-## 🧠 Why This Exists
+## Why This Exists
 Many threat vectors operate physically, not digitally. AirTags, rogue hotspots, IR bugs, ultrasonic ads — all leave RF, EMF, or optical traces. Signal Scout empowers users to detect, validate, and investigate physical-layer anomalies using nothing but their iPhone.
 
 
@@ -54,7 +54,7 @@ For more details: https://github.com/ridpath/SignalScout/blob/main/LICENSE
 
 
 
-## 📢 Attribution
+## Attribution
 Signal Scout uses:
 
 Apple's Core APIs (CoreMotion, CoreBluetooth, AVFoundation, etc.)
